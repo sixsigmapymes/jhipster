@@ -71,7 +71,7 @@
         "prettier": "1.16.4",
         "randexp": "0.5.3",
         "semver": "5.6.0",
-        "shelljs": "0.8.3",
+        "shelljs": "0.8.5",
         "tabtab": "2.2.2",
         "through2": "3.0.1",
         "uuid": "3.3.2",
